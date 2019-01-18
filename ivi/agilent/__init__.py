@@ -211,6 +211,7 @@ from .agilentE3646A import agilentE3646A
 from .agilentE3647A import agilentE3647A
 from .agilentE3648A import agilentE3648A
 from .agilentE3649A import agilentE3649A
+from .agilentN6700B import agilentN6700B
 
 # Source measure units
 from .agilentU2722A import agilentU2722A
